@@ -1,7 +1,8 @@
 import openai
 
 # Configura la API de OpenAI
-openai.api_key = "tu_api_key"  # Reemplaza con tu clave de OpenAI
+openai.api_key = "
+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"  # Reemplaza con tu clave de OpenAI
 
 def obtener_trabajos_anteriores():
     print("Por favor, ingresa tus puestos de trabajo anteriores.")
